@@ -1,5 +1,6 @@
 <testsuite tests="3">
     <testcase classname="iTest" name="Failed"/>
+       <failure type="iTestFailed"> Failure details who what when </failure>
     <testcase classname="UAT" name="Succeeded"/>
     <testcase classname="Prod" name="Failed">
        <failure type="ProdFailed"> Failure details who what when </failure>
