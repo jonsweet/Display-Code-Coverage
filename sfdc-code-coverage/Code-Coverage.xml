@@ -1,17 +1,14 @@
 <testsuites name="managed-orgs">
    <testsuite name="iTest">
-      <testcase classname="iTest" name="Failed">
-         <failure type="iTestFailed"> iTest Failure details who what when </failure>
+      <testcase classname="iTest" name="Succeeded">
       </testcase>
    </testsuite>
    <testsuite name="UAT">
-      <testcase classname="UAT" name="Failed">
-         <failure type="iTestFailed"> UAT Failure details who what when </failure>
+      <testcase classname="UAT" name="Succeeded">
       </testcase>
    </testsuite>
    <testsuite name="Prod">
-      <testcase classname="Prod" name="Failed">
-         <failure type="ProdFailed"> Prod Failure details who what when </failure>
+      <testcase classname="Prod" name="Succeeded">
       </testcase>
    </testsuite>
 </testsuites>
