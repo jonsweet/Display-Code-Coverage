@@ -1,6 +1,6 @@
 <testsuite tests="3">
-    <testcase classname="iTest" name="Successful"/>
-    <testcase classname="UAT" name="Successful"/>
+    <testcase classname="iTest" name="Failed"/>
+    <testcase classname="UAT" name="Failed"/>
     <testcase classname="Prod" name="Successful">
     </testcase>
 </testsuite>
