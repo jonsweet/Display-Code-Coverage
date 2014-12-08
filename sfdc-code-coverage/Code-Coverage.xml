@@ -1,0 +1,7 @@
+<testsuite tests="3">
+    <testcase classname="iTest" name="Successful"/>
+    <testcase classname="UAT" name="Successful"/>
+    <testcase classname="Prod" name="Failed">
+        <failure type="FailDets"> Failure Details who what when </failure>
+    </testcase>
+</testsuite>
